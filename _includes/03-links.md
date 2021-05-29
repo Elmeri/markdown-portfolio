@@ -1,1 +1,1 @@
-https://doesnotexist.com
+[text](https://example.com)
